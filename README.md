@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 🛠️ **Languages and Tools:**
 <p>
-    <a href="https://github.com/search?q=user%3Aceeyang+is%3Arepo+language%3Acss"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%231572B6.svg?logo=flutter&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aceeyang+is%3Arepo+language%3AFlutter"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%231572B6.svg?logo=flutter&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aceeyang+is%3Arepo+language%3Aios"><img alt="iOS" src="https://img.shields.io/badge/iOS%20-%231572B6.svg?logo=iOS&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aceeyang+is%3Arepo+language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/Swift%20-%231572B6.svg?logo=swift&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aceeyang+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
